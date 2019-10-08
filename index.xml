@@ -13,7 +13,7 @@
 <fanart>http://</fanart>
 ]]></listrepeat>
 <expres>"name": "([^"]+)",
-					"image": "([^"]+)",
+					"image": ".*",
 					"url": "https:\/\/onlystream.tv\/e\/([^"]+)",
 					"embed": "true",
 					"playInNatPlayer": "true"</expres>
