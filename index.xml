@@ -1,0 +1,22 @@
+<item>
+<title>[COLOR White]VIDEOS[/COLOR]</title>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+<link>$dogerex[w3ubin]</link>
+<regex>
+<name>w3ubin</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR blue][w3ubin.param1][/COLOR]</title>
+<link>https://onlystream.tv/[w3ubin.param3]</link>
+<thumbnail>[w3ubin.param2]</thumbnail>
+<fanart>http://</fanart>
+]]></listrepeat>
+<expres>"name": "([^"]+)",
+					"image": "([^"]+)",
+					"url": "https:\/\/onlystream.tv\/e\/([^"]+)",
+					"embed": "true",
+					"playInNatPlayer": "true"</expres>
+<page>https://w3ubin.com/HJ183fZVG.w3u</page>
+</regex>
+</item>
