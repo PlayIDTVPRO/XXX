@@ -1,0 +1,85 @@
+{
+"name": "Playlist W3U &M3U",
+"author": "แอดมินเลงไปๆ",
+"url": "https://dootvhd1.000webhostapp.com/M3UPLAY/IPTVW-P.w3u",
+"image": "https://dootvhd1.000webhostapp.com/M3UPLAY/leng.png",
+"info": "แอดมินเลงไปๆ",
+"groups": [
+{
+"name": "ทีวีดิจิตอล",
+"image": "https://i.postimg.cc/XYH5W86b/freetv.png",
+"url": "https://yamcode.com/raw/untitled-942",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "กีฬาต่างประเทศ",
+"image": "https://i.postimg.cc/m2SMX4dh/sports.png",
+"url": "https://dootvhd1.000webhostapp.com/M3UPLAY/Sports%20TV.w3u",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "ข่าว",
+"image": "https://i.postimg.cc/BQ55rHvS/news.png",
+"url": "https://yamcode.com/raw/untitled-1012",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "ทีวีดาวเทียม",
+"image": "https://i.postimg.cc/mD0NsSMD/image.png",
+"url": "https://yamcode.com/raw/untitled-943",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "กีฬาทรูวิชั่นส์",
+"image": "https://i.postimg.cc/m2SMX4dh/sports.png",
+"url": "https://yamcode.com/raw/untitled-1144",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+
+{
+"name": "บันเทิง",
+"image": "https://i.postimg.cc/RZX7Fmf2/image.png",
+"url": "https://yamcode.com/raw/untitled-1213",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "kids",
+"image": "https://i.postimg.cc/9XZy9ZZd/kids.png",
+"url": "https://yamcode.com/raw/untitled-1320",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "ช่องหนังออนไลน์",
+"image": "https://i.postimg.cc/g2kh175s/Movietv.png",
+"url": "https://yamcode.com/raw/movie2du-1",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+{
+"name": "สระคดี",
+"image": "https://i.postimg.cc/4y6tTRsL/image.png",
+"url": "https://yamcode.com/raw/test-25219",
+"info": "แอดมินเลงไปๆ",
+"import": false
+},
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
