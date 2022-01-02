@@ -1,7 +1,7 @@
 {
 "name": "Playlist W3U &M3U",
 "author": "แอดมินเลงไปๆ",
-"url": "https://dootvhd1.000webhostapp.com/M3UPLAY/IPTVW-P.w3u",
+"url": "https://raw.githubusercontent.com/Saleng5/XXX/master/PlayIDTVPlaylist.w3u",
 "image": "https://dootvhd1.000webhostapp.com/M3UPLAY/leng.png",
 "info": "แอดมินเลงไปๆ",
 "groups": [
