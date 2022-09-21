@@ -1,6 +1,4 @@
-
-   #EXTM3U
-   #EXT-X-TARGETDURATION:10
-   #EXTINF:9.009,
-   http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115412
-   
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.009,
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/115807.ts
